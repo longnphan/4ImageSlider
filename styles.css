@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+}
+
+.left-button {
+  position: absolute;
+  margin-top: 275px;
+}
+
+.right-button {
+  position: absolute;
+  margin-top: 275px;
+  margin-left: 776px;
+}
+
+.image {
+height: 600px;
+width: 800px;
+margin: auto;
+background-image: url("./images/image0.png");
+}
